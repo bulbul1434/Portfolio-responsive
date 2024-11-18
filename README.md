@@ -15,8 +15,9 @@ Purpose: JavaScript adds interactivity and dynamic behavior to web pages. It all
 
  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE">
 
-     "YOUR_ACCESS_KEY_HERE" 
+ "YOUR_ACCESS_KEY_HERE"
+click this link 
+and Create Access Key , Access key will be sent to your email address.
+     
 
-      click this link -->  https://web3forms.com/  
-      
-      and Create Access Key Access key will be sent to your email address.  
+ https://web3forms.com/ 
