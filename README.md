@@ -33,8 +33,8 @@ Follow these steps to deploy your project to Netlify:
    - Fork this repository to your GitHub account.
    - Clone the forked repository to your local machine.
      ```sh
-     git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_NAME.git
-     cd YOUR_PROJECT_NAME
+     git clone https://github.com/bulbul1434/Portfolio-responsive.git
+     cd Portfolio-responsive
      ```
 
 2. **Install Netlify CLI**:
